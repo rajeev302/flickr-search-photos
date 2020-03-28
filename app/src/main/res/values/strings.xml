@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flicker-search-photos</string>
+    <string name="initial_text">Type text to search in the search box above</string>
+</resources>
